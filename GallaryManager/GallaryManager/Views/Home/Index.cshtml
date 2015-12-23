@@ -1,0 +1,143 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+@section featured {
+    <section class="featured">
+        <div class="content-wrapper">
+            <hgroup class="title">
+                <h1>@ViewBag.Title.</h1>
+                <h2>@ViewBag.Message</h2>
+            </hgroup>
+            <p>
+                To learn more about ASP.NET MVC visit
+                <a href="http://asp.net/mvc" title="ASP.NET MVC Website">http://asp.net/mvc</a>.
+                The page features <mark>videos, tutorials, and samples</mark> to help you get the most from ASP.NET MVC.
+                If you have any questions about ASP.NET MVC visit
+                <a href="http://forums.asp.net/1146.aspx/1?MVC" title="ASP.NET MVC Forum">our forums</a>.
+            </p>
+        </div>
+    </section>
+}
+<h3>We suggest the following:</h3>
+<ol class="round">
+    <li class="one">
+        <h5>Getting Started</h5>
+        ASP.NET MVC gives you a powerful, patterns-based way to build dynamic websites that
+        enables a clean separation of concerns and that gives you full control over markup
+        for enjoyable, agile development. ASP.NET MVC includes many features that enable
+        fast, TDD-friendly development for creating sophisticated applications that use
+        the latest web standards.
+        <a href="http://go.microsoft.com/fwlink/?LinkId=245151">Learn more…</a>
+    </li>
+
+    <li class="two">
+        <h5>Add NuGet packages and jump-start your coding</h5>
+        NuGet makes it easy to install and update free libraries and tools.
+        <a href="http://go.microsoft.com/fwlink/?LinkId=245153">Learn more…</a>
+    </li>
+
+    <li class="three">
+        <h5>Find Web Hosting</h5>
+        You can easily find a web hosting company that offers the right mix of features
+        and price for your applications.
+        <a href="http://go.microsoft.com/fwlink/?LinkId=245157">Learn more…</a>
+    </li>
+</ol>
+<div class="col-md-12">
+    <h2>Rename, Resize, and Upload Image</h2>
+    @if (ViewBag.Error != null)
+    {
+        <h4 style="color: red">@ViewBag.Error</h4>
+    }
+    @using (Html.BeginForm("", "", FormMethod.Post, new { enctype = "multipart/form-data", id = "myForm" }))
+    {
+        <h2>Upload Media</h2>
+        <input type="file" name="name" value="" id="myUpload" multiple />
+        <input type="submit" value="Upload " disabled id="uploadBtn" />
+    }
+</div>
+<br />
+@if (ViewBag.Images != null)
+{
+    foreach (var item in ViewBag.Images)
+    { 
+    <span class="divImg" data-id="@item">
+        <img src="@Url.Content("~/Images/ketan/" + item + "")" alt="Alternate Text" class="img-responsive" />
+        <a onclick="deleteIt(this)" data-name="@item">Delete</a>
+    </span>
+    }
+}
+@section Scripts {
+    <script>
+        var obj = $('INPUT[type="file"]');
+        obj.change(function () {
+            var file = this.files[0];
+            var ext = file.name.split(".")[1];
+            switch (ext) {
+                case 'jpeg':
+                    $("#uploadBtn").removeAttr("disabled");
+                    break;
+                case 'jpg':
+                    $("#uploadBtn").removeAttr("disabled");
+                    break;
+                case 'png':
+                    $("#uploadBtn").removeAttr("disabled");
+                    break;
+                default:
+                    alert("Invalid file type");
+            }
+        });
+        $(".img-responsive").click(function () {
+            $("#popUpImg").attr('src', $(this)[0].src);
+            $(".overlay").show();
+        });
+        $(".overlay").click(function () {
+            closeIt();
+        });
+
+        $(document).ready(function myfunction() {
+            /*var height = $(window).height();            var width = $(window).width();            $(".overlay").css("width", width * 0.3);            $(".overlay").css("height", height * 0.3);*/
+            closeIt();
+        });
+        function closeIt() {
+            $(".overlay").css("display", "none");
+        }
+
+        function deleteIt(e) {
+            var fileName = $(e).data().name;
+            var url = "Home/deleteImage";
+            $.ajax({
+                url: url,
+                method: 'GET',
+                dataType: 'json',
+                contentType: 'application/json',
+                data: { fileName: fileName },//JSON.stringify(fileName),
+                success: function myfunction() {
+                    $('span[data-id="' + fileName + '"]').remove();
+                },
+                failure: function myfunction() {
+
+                }
+            });
+        }
+
+        function myfunction() {
+            $.ajax({
+                url: url,
+                method: 'GET',
+                contentType: 'application/json',
+                dataType: 'json',
+                data: { fname: '' },
+                success: function myfunction() {
+
+                },
+                error: function myfunction() {
+
+                }
+            });
+
+        }
+    </script>
+}
+
+

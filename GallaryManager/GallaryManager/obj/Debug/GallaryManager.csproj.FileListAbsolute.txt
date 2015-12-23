@@ -1,0 +1,158 @@
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\GallaryManager.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\GallaryManager.pdb
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\Antlr3.Runtime.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\DotNetOpenAuth.AspNet.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\DotNetOpenAuth.Core.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\DotNetOpenAuth.OAuth.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\DotNetOpenAuth.OpenId.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\EntityFramework.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\Microsoft.Data.Edm.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\Microsoft.Data.OData.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\Microsoft.Web.Infrastructure.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\Microsoft.Web.WebPages.OAuth.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\Newtonsoft.Json.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\System.Spatial.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\System.Web.Helpers.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\System.Web.Http.OData.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\System.Web.Mvc.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\System.Web.Optimization.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\System.Web.Razor.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\System.Web.WebPages.Deployment.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\System.Web.WebPages.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\System.Web.WebPages.Razor.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\WebGrease.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\WebMatrix.Data.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\WebMatrix.WebData.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\EntityFramework.xml
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\Newtonsoft.Json.xml
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\System.Web.Helpers.xml
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\System.Web.Mvc.xml
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\System.Web.Razor.xml
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\System.Web.WebPages.xml
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\System.Web.WebPages.Deployment.xml
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\System.Web.WebPages.Razor.xml
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\WebMatrix.Data.xml
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\Microsoft.Web.WebPages.OAuth.xml
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\WebMatrix.WebData.xml
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\DotNetOpenAuth.AspNet.xml
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\DotNetOpenAuth.Core.xml
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\DotNetOpenAuth.OAuth.xml
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\DotNetOpenAuth.OpenId.xml
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\System.Web.Http.OData.xml
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\Microsoft.Data.Edm.xml
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\Microsoft.Data.OData.xml
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\System.Spatial.xml
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\de\Microsoft.Data.Edm.resources.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\es\Microsoft.Data.Edm.resources.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\fr\Microsoft.Data.Edm.resources.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\it\Microsoft.Data.Edm.resources.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\ja\Microsoft.Data.Edm.resources.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\ko\Microsoft.Data.Edm.resources.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\ru\Microsoft.Data.Edm.resources.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\de\Microsoft.Data.OData.resources.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\es\Microsoft.Data.OData.resources.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\fr\Microsoft.Data.OData.resources.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\it\Microsoft.Data.OData.resources.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\ja\Microsoft.Data.OData.resources.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\ko\Microsoft.Data.OData.resources.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\ru\Microsoft.Data.OData.resources.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\de\System.Spatial.resources.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\es\System.Spatial.resources.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\fr\System.Spatial.resources.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\it\System.Spatial.resources.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\ja\System.Spatial.resources.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\ko\System.Spatial.resources.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\ru\System.Spatial.resources.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\zh-Hans\System.Spatial.resources.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\bin\zh-Hant\System.Spatial.resources.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\obj\Debug\GallaryManager.csprojResolveAssemblyReference.cache
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\obj\Debug\GallaryManager.dll
+c:\users\kagnihotri.internal\documents\visual studio 2012\Projects\GallaryManager\GallaryManager\obj\Debug\GallaryManager.pdb
+D:\POC\GallaryManager\GallaryManager\bin\GallaryManager.dll
+D:\POC\GallaryManager\GallaryManager\bin\GallaryManager.pdb
+D:\POC\GallaryManager\GallaryManager\bin\Antlr3.Runtime.dll
+D:\POC\GallaryManager\GallaryManager\bin\DotNetOpenAuth.AspNet.dll
+D:\POC\GallaryManager\GallaryManager\bin\DotNetOpenAuth.Core.dll
+D:\POC\GallaryManager\GallaryManager\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\POC\GallaryManager\GallaryManager\bin\DotNetOpenAuth.OAuth.dll
+D:\POC\GallaryManager\GallaryManager\bin\DotNetOpenAuth.OpenId.dll
+D:\POC\GallaryManager\GallaryManager\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\POC\GallaryManager\GallaryManager\bin\EntityFramework.dll
+D:\POC\GallaryManager\GallaryManager\bin\Microsoft.Data.Edm.dll
+D:\POC\GallaryManager\GallaryManager\bin\Microsoft.Data.OData.dll
+D:\POC\GallaryManager\GallaryManager\bin\Microsoft.Web.Infrastructure.dll
+D:\POC\GallaryManager\GallaryManager\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\POC\GallaryManager\GallaryManager\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\POC\GallaryManager\GallaryManager\bin\Newtonsoft.Json.dll
+D:\POC\GallaryManager\GallaryManager\bin\System.Spatial.dll
+D:\POC\GallaryManager\GallaryManager\bin\System.Web.Helpers.dll
+D:\POC\GallaryManager\GallaryManager\bin\System.Web.Http.OData.dll
+D:\POC\GallaryManager\GallaryManager\bin\System.Web.Mvc.dll
+D:\POC\GallaryManager\GallaryManager\bin\System.Web.Optimization.dll
+D:\POC\GallaryManager\GallaryManager\bin\System.Web.Razor.dll
+D:\POC\GallaryManager\GallaryManager\bin\System.Web.WebPages.Deployment.dll
+D:\POC\GallaryManager\GallaryManager\bin\System.Web.WebPages.dll
+D:\POC\GallaryManager\GallaryManager\bin\System.Web.WebPages.Razor.dll
+D:\POC\GallaryManager\GallaryManager\bin\WebGrease.dll
+D:\POC\GallaryManager\GallaryManager\bin\WebMatrix.Data.dll
+D:\POC\GallaryManager\GallaryManager\bin\WebMatrix.WebData.dll
+D:\POC\GallaryManager\GallaryManager\bin\EntityFramework.xml
+D:\POC\GallaryManager\GallaryManager\bin\Newtonsoft.Json.xml
+D:\POC\GallaryManager\GallaryManager\bin\System.Web.Helpers.xml
+D:\POC\GallaryManager\GallaryManager\bin\System.Web.Mvc.xml
+D:\POC\GallaryManager\GallaryManager\bin\System.Web.Razor.xml
+D:\POC\GallaryManager\GallaryManager\bin\System.Web.WebPages.xml
+D:\POC\GallaryManager\GallaryManager\bin\System.Web.WebPages.Deployment.xml
+D:\POC\GallaryManager\GallaryManager\bin\System.Web.WebPages.Razor.xml
+D:\POC\GallaryManager\GallaryManager\bin\WebMatrix.Data.xml
+D:\POC\GallaryManager\GallaryManager\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\POC\GallaryManager\GallaryManager\bin\WebMatrix.WebData.xml
+D:\POC\GallaryManager\GallaryManager\bin\DotNetOpenAuth.AspNet.xml
+D:\POC\GallaryManager\GallaryManager\bin\DotNetOpenAuth.Core.xml
+D:\POC\GallaryManager\GallaryManager\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\POC\GallaryManager\GallaryManager\bin\DotNetOpenAuth.OAuth.xml
+D:\POC\GallaryManager\GallaryManager\bin\DotNetOpenAuth.OpenId.xml
+D:\POC\GallaryManager\GallaryManager\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\POC\GallaryManager\GallaryManager\bin\System.Web.Http.OData.xml
+D:\POC\GallaryManager\GallaryManager\bin\Microsoft.Data.Edm.xml
+D:\POC\GallaryManager\GallaryManager\bin\Microsoft.Data.OData.xml
+D:\POC\GallaryManager\GallaryManager\bin\System.Spatial.xml
+D:\POC\GallaryManager\GallaryManager\bin\de\Microsoft.Data.Edm.resources.dll
+D:\POC\GallaryManager\GallaryManager\bin\es\Microsoft.Data.Edm.resources.dll
+D:\POC\GallaryManager\GallaryManager\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\POC\GallaryManager\GallaryManager\bin\it\Microsoft.Data.Edm.resources.dll
+D:\POC\GallaryManager\GallaryManager\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\POC\GallaryManager\GallaryManager\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\POC\GallaryManager\GallaryManager\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\POC\GallaryManager\GallaryManager\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\POC\GallaryManager\GallaryManager\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\POC\GallaryManager\GallaryManager\bin\de\Microsoft.Data.OData.resources.dll
+D:\POC\GallaryManager\GallaryManager\bin\es\Microsoft.Data.OData.resources.dll
+D:\POC\GallaryManager\GallaryManager\bin\fr\Microsoft.Data.OData.resources.dll
+D:\POC\GallaryManager\GallaryManager\bin\it\Microsoft.Data.OData.resources.dll
+D:\POC\GallaryManager\GallaryManager\bin\ja\Microsoft.Data.OData.resources.dll
+D:\POC\GallaryManager\GallaryManager\bin\ko\Microsoft.Data.OData.resources.dll
+D:\POC\GallaryManager\GallaryManager\bin\ru\Microsoft.Data.OData.resources.dll
+D:\POC\GallaryManager\GallaryManager\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\POC\GallaryManager\GallaryManager\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\POC\GallaryManager\GallaryManager\bin\de\System.Spatial.resources.dll
+D:\POC\GallaryManager\GallaryManager\bin\es\System.Spatial.resources.dll
+D:\POC\GallaryManager\GallaryManager\bin\fr\System.Spatial.resources.dll
+D:\POC\GallaryManager\GallaryManager\bin\it\System.Spatial.resources.dll
+D:\POC\GallaryManager\GallaryManager\bin\ja\System.Spatial.resources.dll
+D:\POC\GallaryManager\GallaryManager\bin\ko\System.Spatial.resources.dll
+D:\POC\GallaryManager\GallaryManager\bin\ru\System.Spatial.resources.dll
+D:\POC\GallaryManager\GallaryManager\bin\zh-Hans\System.Spatial.resources.dll
+D:\POC\GallaryManager\GallaryManager\bin\zh-Hant\System.Spatial.resources.dll
+D:\POC\GallaryManager\GallaryManager\obj\Debug\GallaryManager.csprojResolveAssemblyReference.cache
+D:\POC\GallaryManager\GallaryManager\obj\Debug\GallaryManager.dll
+D:\POC\GallaryManager\GallaryManager\obj\Debug\GallaryManager.pdb
