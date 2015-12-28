@@ -1,4 +1,5 @@
-﻿using GallaryManager.Models;
+﻿using System.Configuration;
+using GallaryManager.Models;
 using System;
 using System.Collections.Concurrent;
 using System.Collections.Generic;
@@ -16,7 +17,7 @@ namespace GallaryManager.Controllers
         public ActionResult Index()
         {
             ViewBag.Message = "Modify this template to jump-start your ASP.NET MVC application.";
-            string path = @"D:/POC/GallaryManager/GallaryManager/Images/ketan";
+            var path = ConfigurationManager.AppSettings["UploadFolder"];
             ViewBag.Images = GetAllImages(path);
              
             return View();
@@ -24,13 +25,29 @@ namespace GallaryManager.Controllers
 
         private string[] GetAllImages(string path)
         {
-            var obj = Directory.GetFiles(path);
-            for (int i = 0; i < obj.Length; i++)
+
+            if (!System.IO.Directory.Exists(System.Web.HttpContext.Current.Server.MapPath("~/Images/ketan")))
+                System.IO.Directory.CreateDirectory(System.Web.HttpContext.Current.Server.MapPath("~/Images/ketan"));
+
+            try
             {
-                obj[i] = obj[i].ToLower().Replace(path.ToLower(), "").Replace("\\", "");
+
+                var obj = Directory.GetFiles(path);
+                for (int i = 0; i < obj.Length; i++)
+                {
+                    obj[i] = obj[i].ToLower().Replace(path.ToLower(), "").Replace("\\", "");
+                }
+                //var obj = Directory.GetFiles(System.Web.HttpContext.Current.Server.MapPath(path));
+                return obj;
+        
             }
-            //var obj = Directory.GetFiles(System.Web.HttpContext.Current.Server.MapPath(path));
-            return obj;
+            catch (Exception)
+            {
+             var x= new string[0];
+                return x;
+                throw;
+            }
+            
         }
 
         [HttpPost]
@@ -60,17 +77,17 @@ namespace GallaryManager.Controllers
             if (!System.IO.Directory.Exists(System.Web.HttpContext.Current.Server.MapPath(UploadPath)))
                 System.IO.Directory.CreateDirectory(System.Web.HttpContext.Current.Server.MapPath(UploadPath));
              
-            /*for (int i = 0; i < Request.Files.Count; i++)
+            for (int i = 0; i < Request.Files.Count; i++)
             {
                 var x = Request.Files[i];
                 x.SaveAs(Server.MapPath("~/Images/ketan/" + x.FileName));
-            } */
-            
+            } 
+           /* 
             System.Threading.Tasks.Parallel.For(0, Request.Files.Count, i =>
             {
                 var x = Request.Files[i];
                 x.SaveAs(Server.MapPath("~/Images/ketan/" + x.FileName));
-            }); 
+            }); */
             return RedirectToAction("Index", "Home");
         }
 

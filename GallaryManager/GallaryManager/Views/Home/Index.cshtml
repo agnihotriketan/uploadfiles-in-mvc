@@ -49,7 +49,7 @@
     {
         <h4 style="color: red">@ViewBag.Error</h4>
     }
-    @using (Html.BeginForm("", "", FormMethod.Post, new { enctype = "multipart/form-data", id = "myForm" }))
+    @using (Html.BeginForm("Index", "Home", FormMethod.Post, new { enctype = "multipart/form-data", id = "myForm" }))
     {
         <h2>Upload Media</h2>
         <input type="file" name="name" value="" id="myUpload" multiple />
